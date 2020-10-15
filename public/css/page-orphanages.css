@@ -1,0 +1,13 @@
+#page-orphanages{
+    width: 100%;
+    height:100%; 
+    display: flex;
+}
+aside{
+    padding:8rem;
+    width: clamp(34rem,25vw,44rem);
+    background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

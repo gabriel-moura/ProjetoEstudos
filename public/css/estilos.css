@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 body {
   height: 100vh;
@@ -17,4 +18,4 @@ textarea {
   font: 400 1.8rem/1 "nunito", sans-serif;
 }
 
-/*animações*/
+
